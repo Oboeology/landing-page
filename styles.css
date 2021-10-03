@@ -17,6 +17,7 @@ a {
 
 .awesome {
     font-size: 48px;
+    color: #f9faf8;
     margin: 0 0 16px;
     font-weight: bold;
 }
@@ -77,4 +78,24 @@ p {
     align-items: center;
     background-color: #1f2937;
     color: #e5e7eb;
+}
+
+/* center section2 title text */
+
+.section2 {
+    display: flex;
+    padding: 64px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 32px 0 32px;
+    gap: 32px;
+}
+
+.glam {
+    max-width: 200px;
+    max-height: 134px;
 }
