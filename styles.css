@@ -1,4 +1,33 @@
 body {
     display: flex;
     flex-direction: column;
-    }
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    padding: 0px;
+    color: #e5e7eb;
+}
+
+.header {
+    font-size: 24px;
+}
+
+.header-links {
+    display: flex;
+    padding: 0 16px 0 16px;
+    gap: 16px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+}
