@@ -7,11 +7,16 @@ ul {
     list-style-type: none;
 }
 
+/* SOLVE BUTTON VS NAVITEM ISSUE */
+.navitem {
+    display: block;
+    padding: 16px;
+}
+
 a {
     text-decoration: none;
     font-size: 18px;
     font-family: Roboto, Arial;
-    padding: 0px;
     color: #e5e7eb;
 }
 
@@ -68,6 +73,7 @@ p {
 
 .header-links {
     display: flex;
+    margin: 0px;
     padding: 0 16px 0 16px;
     gap: 16px;
 }
