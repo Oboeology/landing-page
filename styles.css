@@ -97,5 +97,6 @@ p {
 
 .glam {
     max-width: 200px;
-    max-height: 134px;
+    max-height: auto;
+    border-radius: 8px;
 }
