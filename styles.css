@@ -165,6 +165,8 @@ p {
     margin: 0;
 }
 
+/* not displaying in safari */
+
 .button {
     display: block;
     width: 120px;
