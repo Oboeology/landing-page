@@ -111,8 +111,8 @@ p {
 .glam {
     max-width: 200px;
     max-height: auto;
-    border: 23px;
-    border-color: #3882f6;
+    border: 5px;
+    border-color: #e5e7eb;
     border-radius: 8px;
 }
 
