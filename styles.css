@@ -8,16 +8,18 @@ ul {
 }
 
 /* SOLVE BUTTON VS NAVITEM ISSUE */
-.navitem {
-    display: block;
-    padding: 16px;
-}
+
 
 a {
     text-decoration: none;
     font-size: 18px;
     font-family: Roboto, Arial;
     color: #e5e7eb;
+}
+
+.navitem {
+    display: inline-block;
+    padding: 16px;
 }
 
 .awesome {
