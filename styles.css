@@ -55,7 +55,8 @@ p {
     width: 450px;
 }
 
-.signup {
+.button1 {
+    display: inline-block;
     width: 120px;
     height: 40px;
     border: none;
@@ -66,6 +67,7 @@ p {
     font-weight: 500;
     font-family: roboto, arial;
 }
+
 
 .header {
     font-size: 24px;
